@@ -1,10 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
-
+.navbar{
+    background-color: #000000 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-right: 40px;
 }
-h1{
-color: blueviolet;
-text-align: center;
-
+nav{
+    font-family: Abang;
+}
+@font-face{
+    font-family: Abang ;
+    src: url(../assets/Abang.otf);
+}
+@font-face{
+    font-family: Abrosia ;
+    src: url(../assets/Abyssal\ Horrors.ttf);
+}
+header{
+    font-family: Abrosia;
+}
+div.row{
+    font-family: Abrosia;
 }
